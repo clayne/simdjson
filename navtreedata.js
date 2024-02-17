@@ -43,7 +43,7 @@ var NAVTREE =
       [ "Minifying JSON strings without parsing", "md_doc_basics.html#autotoc_md12", null ],
       [ "UTF-8 validation (alone)", "md_doc_basics.html#autotoc_md13", null ],
       [ "JSON Pointer", "md_doc_basics.html#autotoc_md14", null ],
-      [ "JSON Path", "md_doc_basics.html#autotoc_md15", null ],
+      [ "JSONPath", "md_doc_basics.html#autotoc_md15", null ],
       [ "Error Handling", "md_doc_basics.html#autotoc_md16", [
         [ "Error Handling Examples without Exceptions", "md_doc_basics.html#autotoc_md17", null ],
         [ "Disabling Exceptions", "md_doc_basics.html#autotoc_md18", null ],
@@ -192,12 +192,12 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"amalgamated_8h_source.html",
-"classsimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1object.html",
-"classsimdjson_1_1dom_1_1element.html#afbe1c01508f1cc39b41b79596cb5717b",
-"icelake_2end_8h_source.html",
-"namespacesimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand.html",
-"structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1document__reference_01_4.html#a20982b10f89ac3ec1f07acf11e5a9d5a"
+"",
+"classsimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1field.html#a73a389f50a576d2a5eb315dbd8abced7",
+"classsimdjson_1_1dom_1_1element.html#ae3c0226046e29cfb0e868c5251a87e53",
+"haswell_8h_source.html",
+"namespacesimdjson.html#ae6ec9f0ce23fc51d87116b64fdbeb811ac059cc555f4992b3eb481f03b70df100",
+"structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1document__reference_01_4.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

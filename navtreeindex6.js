@@ -1,5 +1,6 @@
 var NAVTREEINDEX6 =
 {
+"westmere_2base_8h_source.html":[12,0,0,0,12,0],
 "westmere_2begin_8h_source.html":[12,0,0,0,12,1],
 "westmere_2bitmanipulation_8h_source.html":[12,0,0,0,12,2],
 "westmere_2bitmask_8h_source.html":[12,0,0,0,12,3],

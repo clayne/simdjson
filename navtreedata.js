@@ -67,7 +67,7 @@ var NAVTREE =
       [ "Further reading", "md_doc_basics.html#autotoc_md35", null ]
     ] ],
     [ "The Document-Object-Model (DOM) front-end", "md_doc_dom.html", [
-      [ "DOM vs On Demand", "md_doc_dom.html#autotoc_md36", null ],
+      [ "DOM vs On-Demand", "md_doc_dom.html#autotoc_md36", null ],
       [ "The Basics: Loading and Parsing JSON Documents using the DOM front-end", "md_doc_dom.html#autotoc_md37", null ],
       [ "Using the Parsed JSON", "md_doc_dom.html#autotoc_md38", [
         [ "Examples", "md_doc_dom.html#autotoc_md39", null ]
@@ -119,9 +119,9 @@ var NAVTREE =
       [ "Design Features", "md_doc_ondemand_design.html#autotoc_md75", [
         [ "String Parsing", "md_doc_ondemand_design.html#autotoc_md76", null ],
         [ "Iteration Safety", "md_doc_ondemand_design.html#autotoc_md77", null ],
-        [ "Benefits of the On Demand Approach", "md_doc_ondemand_design.html#autotoc_md78", null ],
-        [ "Limitations of the On Demand Approach", "md_doc_ondemand_design.html#autotoc_md79", null ],
-        [ "Applicability of the On Demand Approach", "md_doc_ondemand_design.html#autotoc_md80", null ]
+        [ "Benefits of the On-Demand Approach", "md_doc_ondemand_design.html#autotoc_md78", null ],
+        [ "Limitations of the On-Demand Approach", "md_doc_ondemand_design.html#autotoc_md79", null ],
+        [ "Applicability of the On-Demand Approach", "md_doc_ondemand_design.html#autotoc_md80", null ]
       ] ],
       [ "Checking Your CPU Selection (x64 systems)", "md_doc_ondemand_design.html#autotoc_md81", null ]
     ] ],
@@ -194,13 +194,13 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"",
-"classsimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1field.html#a598e64f8fff7f033b2e38057798799d9",
-"classsimdjson_1_1dom_1_1element.html#adadf66ec37675d5f3fac9816a8aacba2",
-"haswell_2implementation_8h_source.html",
-"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a69f1b9e7b9970fbb60416ebce2f894c3",
-"structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1document_01_4.html#a6eaf8b3346df0929f74a7a3581f94f3b",
-"token__iterator_8h_source.html"
+"amalgamated_8h_source.html",
+"classsimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1field.html#ac91f0ec4a1944cba079924b366424f89",
+"classsimdjson_1_1dom_1_1element.html#aeb155c47ef7bebcad79e1b7449734030",
+"haswell_2stringparsing__defs_8h_source.html",
+"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a8ef9cfdd78dd92d2b304249917638d12",
+"structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1document_01_4.html#a88d370115d7ac1708b0127fc64ce9b2d",
+"value__iterator_8h_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

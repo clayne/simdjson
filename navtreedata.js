@@ -197,11 +197,11 @@ var NAVTREEINDEX =
 [
 "",
 "classsimdjson_1_1_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1field.html#a4f49d8e89feb3ca69cf85ce2aea80c0f",
-"classsimdjson_1_1dom_1_1element.html#ac5017726a573f59c3494b92bb66a3beb",
-"haswell_2begin_8h_source.html",
-"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a4d768ac107473bceb91f8a0d1a824bc2",
-"structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1document_01_4.html#a696390da51f64f6955aa43484b2e8c41",
-"structsimdjson_1_1simdjson__result_3_01dom_1_1object_01_4.html#ae7aaa4b623ae007a33b0faa37374cc33"
+"classsimdjson_1_1dom_1_1element.html#ac111e6d27806dbd39794f2c394f95757",
+"group__scalar.html",
+"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a4005fbda56edc47e077e5cfd4e68cda9",
+"structsimdjson_1_1simdjson__result_3_01_s_i_m_d_j_s_o_n___i_m_p_l_e_m_e_n_t_a_t_i_o_n_1_1ondemand_1_1document_01_4.html#a61c56912d76a1a730e4cf9b5aea5d69f",
+"structsimdjson_1_1simdjson__result_3_01dom_1_1object_01_4.html#a53309d2504209b1d4b00df48f1c074d3"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

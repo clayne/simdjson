@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"group__scalar.html":[9,2],
+"haswell_2base_8h_source.html":[12,0,0,0,5,0],
 "haswell_2begin_8h_source.html":[12,0,0,0,5,1],
 "haswell_2bitmanipulation_8h_source.html":[12,0,0,0,5,2],
 "haswell_2bitmask_8h_source.html":[12,0,0,0,5,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a2d50048bbe409023df4e88f6ffe3bc71":[10,0,0,35,1],
 "namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a351bcafefbbc80a6dadc1ea6c27a35e6":[10,0,0,35,26],
 "namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a398a5389d6e20c39e8880b0101b66f56":[10,0,0,35,11],
-"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a3f94172e04ae52a978ea62157140b0de":[10,0,0,35,30],
-"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a4005fbda56edc47e077e5cfd4e68cda9":[10,0,0,35,3],
-"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a4a2c71f8eca438b3f0553a2811bdab9a":[10,0,0,35,20]
+"namespacesimdjson.html#a7b735a3a50ba79e3f7f14df5f77d8da9a3f94172e04ae52a978ea62157140b0de":[10,0,0,35,30]
 };
